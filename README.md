@@ -42,13 +42,13 @@ Arduino project  control reading from sensors continuously  and change led state
  - Arduino board :Arduino mega 2650
  
  - digital Pins:
-   - ledPin 13
+   *ledPin 13
    
-   -InterruptPin 2
+   *InterruptPin 2
    
  - Analog pins:
  
-   -tempPin A0
+   *tempPin A0
    
  - baudRate 9600
  
