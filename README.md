@@ -43,9 +43,11 @@ Arduino project  control reading from sensors continuously  and change led state
  
  - digital Pins:
    - ledPin 13
+   
    -InterruptPin 2
    
  - Analog pins:
+ 
    -tempPin A0
    
  - baudRate 9600
