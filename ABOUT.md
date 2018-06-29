@@ -5,7 +5,9 @@
 this project can be enhanced by
 
 1.adding a signal to be sent to air conditioner and vary the temp according to reading .
+
 2.put arduino to sleep till interrupt happens and it will wake up atuomaticlly to conserve the power by using arduino sleep functions/library
+
 3-send data to mobile application by using internert or serial communication with mater unit that have internet connection
 and view /edit data from it
 
